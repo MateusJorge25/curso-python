@@ -12,7 +12,7 @@ print(tuplas [2])           #udemy
 print(tuplas [0:2])              # vai mostrar o valor 0 e 1 pois desta forma ira cortar o valor dois 
 
 
-print(tuplas [0:1])              # vai mostrar só o primeiro valor pois ira cortar o vaolor um
+print(tuplas [0:1])              # vai mostrar só o primeiro valor pois ira cortar o valor um
 
 
 print(len (tuplas))        #3     # mostra a quantidade de objetos que tem dentro da tupla
